@@ -1,0 +1,53 @@
+# 2 - Programação para Machine Learning
+- 2.1 - Linguagens de Programação para Machine Learning
+- 2.2 - Python para Machine Learning
+- 2.3 - Scilab para Machine Learning
+- 2.4 - R para Machine Learning
+- 2.5 - Frameworks para Machine Learning
+- 2.6 - Introdução ao COLAB
+- 2.7 - Desafios Básicos: Programação para Machine Learning
+- 2.8 - Treinamento de Redes Neurais com Transfer Learning
+
+---
+## 2.1 - Linguagens de Programação para Machine Learning
+
+> Quais são os paradigmas de programação?
+- Lógica
+- Funcional
+- Imperativa
+- Orientada a Objetos
+- Multi-Paradigmas
+
+## 2.2 - Python para Machine Learning
+
+- Programação básica
+  - Instalação
+    - Instalando um editor de texto
+    - Instalando o anaconda
+    - Instalando o sublime
+    - Instalando o VScode
+    - Instalando o Python
+    - Instalando o PIP
+  - Nosso primeiro programa
+    - Hello World
+  - Tipos de Variáveis
+    - Inteiro (int)
+    - Ponto flutuante ou decimal (float)
+    - Complexo (complex)
+    - String (str)
+    - Boolean (bool)
+  - Estruturas condicionais
+    - if
+    - else
+    - elif
+  - Estruturas de repetição
+    - for
+    - while
+  - 
+  - Numpy
+  - SciPy
+  - Pandas
+  - Matplotlib
+- Instalação de dependências
+- Bibliotecas de Machine Learning
+- Configuração de GPU em CUDA

@@ -1,0 +1,46 @@
+# Machine Learning 
+
+## Sumário:
+- [1 - Introdução ao Machine Learning](Files/1%20-%20Introdução%20ao%20Machine%20Learning.md)
+  - 1.1 - Introdução ao Machine Learning
+  - 1.2 - Métodos de Machine Learning Bioinspirados
+  - 1.3 - Redes Neurais Artificiais
+  - 1.4 - Algoritmos Genéticos
+  - 1.5 - Algoritmos de SVM (Support Vector Machine)
+  - 1.6 - Classificação de Problemas: Explorando Datasets
+- [2 - Programação para Machine Learning]()
+  - 2.1 - Linguagens de Programação para Machine Learning
+  - 2.2 - Python para Machine Learning
+  - 2.3 - Scilab para Machine Learning
+  - 2.4 - R para Machine Learning
+  - 2.5 - Frameworks para Machine Learning
+  - 2.6 - Introdução ao COLAB
+  - 2.7 - Desafios Básicos: Programação para Machine Learning
+  - 2.8 - Treinamento de Redes Neurais com Transfer Learning
+- [3 - Algortimos de Treinamento em Machine Learning]()
+  - 3.1 - Treinamento Não-Supervisionado em Machine Learning
+  - 3.2 - Treinamento Supervisionado para Machine Learning
+  - 3.3 - Aprendizado por reforço em Machine Learning
+  - 3.4 - Algoritmos de Regressão para Machine Learning
+  - 3.5 - Extração de Features e Redução de Dimensionalidade em Dados
+  - 3.6 - Redução de Dimensionalidade em Imagens para Redes Neurais
+- [4 - Teoria do Aprendizado Estatístico]()
+  - 4.1 - Métodos de Validação de Treinamento
+  - 4.2 - Métodos de Otimização de Aprendizado
+  - 4.3 - Otimização de Modelos en Hiperparâmetros
+  - 4.4 - Modelos de Machine Learning: Métricas de Avaliação de Desempenho
+  - 4.5 - Cálculo de Métricas de Avaliação de Aprendizado
+- [5 - Fundamentos e Práticas de Deep Learning]()
+  - 5.1 - Tipos de Redes de Deep Learning
+  - 5.2 - Redes de Classificação para Deep Learning
+  - 5.3 - Redes de Detecção em Deep Learning
+  - 5.4 - Redes de Segmentação em Deep Learning
+  - 5.5 - Aplicação Práticas com Deep Learning
+  - 5.6 - Criação de Uma Base de Dados e Treinamento da Rede YOLO
+- [6 - Frameworks de Deep Learning]()
+  - 6.1 - Introdução às Bibliotecas de Machine Learning
+  - 6.2 - Conhecendo as Bibliotecas Pandas e Scikit-Learn
+  - 6.3 - Frameworks de Machine Learning
+  - 6.4 - Desenvolvimento de Algoritmos no Keras
+  - 6.5 - Ambientes de Projetos Colaborativos de Machine Learning
+  - 6.6 - Criando um Sistema de Reconhecimento Facial do Zero
