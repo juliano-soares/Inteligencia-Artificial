@@ -1,4 +1,4 @@
-[<](../../Intelig%C3%AAncia%20Artificial.md) 
+[< Página principal](../../README.md)
 # 2 - Algoritmos de Busca e Otimização
 
 
@@ -84,6 +84,11 @@ Local: buscam a melhor solução na região ou nas "vizinhanças". Encerram quan
 - Linguagem R:
   - [01 - Problema da loja 711 - R](./Projetos/Tabu%20Search/R/01/Problema%20da%20Loja%20711.md)
 
+### Heuristic
+- [Manhattan]()
+- [Euclidean]()
+- [Octile]()
+- [Chebyshev]()
 ## Algoritmos
 - [Hill Climbing](#hill-climbing)
 - [Best First search](#best-first-search)
@@ -91,9 +96,9 @@ Local: buscam a melhor solução na região ou nas "vizinhanças". Encerram quan
 - [Simulated Annealing](#simulated-annnealing-arrefecimento-simulado)
 - [BFS - (Breadth-First Search)](#breadth-first)
 - [DFS - (Depth-First Search)](#depth-first-search)
-- [Dijkstra]()
-- [Jump Point Search]()
-- [Orthogonal Jump Point Search]()
+- [Dijkstra](#-dijkstra)
+- [Jump Point Search](#-jump-point-search)
+- [Orthogonal Jump Point Search](#-orthogonal-jump-point-search)
 - [A*](#A*)
 - [Iterative Deepening (IDA*)]()
 - [Alpha-beta pruning]()
@@ -115,12 +120,6 @@ Local: buscam a melhor solução na região ou nas "vizinhanças". Encerram quan
 - [Kruskal's algorithm]()
 - [Lifelong Planning A* (LPA*)]()
 - [Simplified Memory Bounded A*]()
-
-### Heuristic
-- [Manhattan]()
-- [Euclidean]()
-- [Octile]()
-- [Chebyshev]()
 
 ---
 ### Hill Climbing
@@ -161,8 +160,13 @@ Local: buscam a melhor solução na região ou nas "vizinhanças". Encerram quan
 ### DFS - (Depth-First Search)
 - Explora uma vizinhança, retornando e tentando outras ramificações
 ---
+### Dijkstra
 
- 
 
+---
+### Jump Point Search
+---
+### Orthogonal Jump Point Search
+---
 ### A*
 ---

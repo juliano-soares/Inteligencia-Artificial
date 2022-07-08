@@ -1,5 +1,6 @@
-[<](../../Intelig%C3%AAncia%20Artificial.md) 
-# 1 - Introdução a Inteligência artificial
+[< Página principal](../../README.md) 
+
+### Sumário
 - [1 - Introdução a Inteligência artificial](#1---introdução-a-inteligência-artificial)
   - [1.1 - Histórico](#11---histórico)
   - [1.2 - O que é inteligência artificial](#12---o-que-é-inteligência-artificial)
@@ -18,6 +19,7 @@
 - [Regression Algorithms](#regression-algorithms)
 - [Clustering Algorithms](#clustering-algorithms)
 
+# 1 - Introdução a Inteligência artificial
 ---
 ## 1.1 - Histórico
 > Fundamentos
