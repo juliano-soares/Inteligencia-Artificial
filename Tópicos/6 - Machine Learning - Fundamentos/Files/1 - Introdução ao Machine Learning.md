@@ -114,13 +114,29 @@ Redes Biológicas X Artificiais
 São máquina de vetores de suporte
 
 > Tipos de aprendizado
--  Não supervisionado
+- Não supervisionado = Agrupar dados
    - K-means, C-means, etc.
--  Supervisionado
-   -  Regressão linear, regressão logistica, SVM, KNN etc.
+- Supervisionado = Classificar dados
+   - Binário
+     - Árvores de decisão
+   - Multiclasse
+   - Regressão
+     - Regressão linear
+     - regressão logística, SVM, KNN etc.
+- Semissupervisionado
+  -  =
 - Aprendizado por Reforços
   - Q-Learning, SARSA, etc
 
+- Viés e varância são formas de medir a diferença entre previsão e o resultado
+
+Naive Bayes
+
+**Supervisionado**
+
+Conjunto de treinamento:
+
+Dados de teste:
 
 
 ---
